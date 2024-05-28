@@ -20,3 +20,4 @@ This repository contains a Flask application that uses OpenAI's GPT-3.5-turbo mo
    git clone https://github.com/your-username/telecom-offers-api.git
    cd telecom-offers-api
 
+![image](https://github.com/dittovicky/Telecom-Churn-GEN-AI-/assets/147920642/f62bd39c-8210-4be9-97e5-e4d42dd066bf)
